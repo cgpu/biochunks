@@ -1,2 +1,2 @@
 # biochunks
-Small chunks of bioinformatics related code or hacks
+A repo/blog hybrid of small bioinformatics utility chunks of code.
